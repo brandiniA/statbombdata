@@ -1,0 +1,22 @@
+{
+  "name": "open-data",
+  "version": "1.0.0",
+  "description": "Welcome to the StatsBomb Open Data repository.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandiniA/open-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandiniA/open-data/issues"
+  },
+  "homepage": "https://github.com/brandiniA/open-data#readme"
+}
